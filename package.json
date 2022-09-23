@@ -1,0 +1,19 @@
+{
+  "name": "asus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "giaub1910513",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "e.js": "^0.0.2",
+    "express": "^4.18.1"
+  },
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
